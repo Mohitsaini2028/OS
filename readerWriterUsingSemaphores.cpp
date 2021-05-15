@@ -1,3 +1,4 @@
+//NOTE : THIS PROGRAM WILL RUN ONLY ON 32-BIT DEBUG MODE
 
 #include<stdio.h>
 #include<pthread.h>
